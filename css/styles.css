@@ -1,0 +1,96 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.skill-row{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  position: relative;
+  bottom: 150px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+.copy-right{
+  background: linear-gradient(
+328deg
+  ,limegreen 30%,#a162e8 50%,orange 70%,#edca85 94%);
+-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+
+
+}
+.me{
+  background: linear-gradient(
+328deg
+  ,limegreen 30%,#a162e8 50%,orange 70%,#edca85 94%);
+-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    font-weight: bold;
+}
+h1{
+  font-size: 80px;
+  width: 50%;
+  margin: 50px auto;
+    font-family: 'Sacramento', cursive;
+    background: linear-gradient(
+  328deg
+  ,limegreen 30%,#a162e8 50%,orange 70%,#edca85 94%);
+  -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: bolder;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(
+328deg
+  ,limegreen 30%,#a162e8 50%,orange 70%,#edca85 94%);
+-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+    font-size: 35px;
+
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(
+328deg
+  ,limegreen 30%,#a162e8 50%,orange 70%,#edca85 94%);
+-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     font-weight: bolder;
+}
+.top-container{
+background-color: skyblue;
+}
+.middle-container{
+  background-color: white;
+}
+.bottom-container{
+  background-color: white;
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+    top: 100px;
+
+}
+.bottom-cloud{
+  position: relative;
+  bottom: 350px;
+  left: 90px;
+
+}
+.mountain{
+  margin-right: 150px;
+  height: 500px;
+
+}
